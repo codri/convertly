@@ -1,0 +1,62 @@
+{
+  "units": [
+    {
+      "name": "Length",
+      "baseUnit": "m",
+      "types": [
+        {
+          "name": "mm",
+          "ratio": 1000.0
+        },
+        {
+          "name": "cm",
+          "ratio": 100.0
+        },
+        {
+          "name": "m",
+          "ratio": 1
+        },
+        {
+          "name": "inch",
+          "ratio": 39.3701
+        }
+      ]
+    },
+    {
+      "name": "Mass",
+      "baseUnit": "kg",
+      "types": [
+        {
+          "name": "g",
+          "ratio": 1000.0
+        },
+        {
+          "name": "kg",
+          "ratio": 1
+        },
+        {
+          "name": "lbs",
+          "ratio": 2.20462
+        }
+      ]
+    },
+    {
+      "name": "Area",
+      "baseUnit": "m^2",
+      "types": [
+        {
+          "name": "mm^2",
+          "ratio": 1000000.0
+        },
+        {
+          "name": "m^2",
+          "ratio": 1.0
+        },
+        {
+          "name": "ha",
+          "ratio": 0.0001
+        }
+      ]
+    }
+  ]
+}
